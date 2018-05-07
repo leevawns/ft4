@@ -1,0 +1,4 @@
+時間,場所,コマンド,エラーコード
+18:22:17,flow_ai,read,0
+18:24:19,flow_ai,initialize,0
+18:24:20,flow_recode,stop,-2501

@@ -1,0 +1,8 @@
+時間,場所,コマンド,エラーコード
+15:43:28,flow_tcp,read,-314220
+15:43:28,flow_recode,stop,-2501
+15:43:50,flow_tcp,read,-314220
+15:45:44,flow_tcp,read,-314220
+15:45:44,flow_recode,stop,-2501
+16:04:45,flow_tcp,read,-314220
+16:04:56,flow_tcp,read,-314220

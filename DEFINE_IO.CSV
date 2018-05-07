@@ -1,0 +1,71 @@
+IN BOARD,DEVICE,OUT BOARD,FUNCTION
+RE1,0A/port0/line0,SIG1,VOLT CHECK 5V
+RE2,0A/port0/line1,SIG2,VOLT CHECK 16.5V
+RE3,0A/port0/line2,SIG3,FREQ
+RE4,0A/port0/line3,SIG4,LED LIGHT
+RE5,0A/port0/line4,SIG5,FAN
+RE6,0A/port0/line5,SIG6,
+RE7,0A/port0/line6,SIG7,
+RE8,0A/port0/line7,SIG8,
+RE9,0A/port0/line8,SIG9,
+RE10,0A/port0/line9,SIG10,
+RE11,0A/port0/line10,SIG11,
+RE12,0A/port0/line11,SIG12,
+RE13,0A/port0/line12,DMM,ON/OFF DMM
+RE14,0A/port0/line12,OSC,
+RE15,0A/port0/line14,PROBE,
+RE16,0A/port0/line15,AC,AC POWER
+IN9,0A/port0/line16,RL9,PCC 6K
+IN10,0A/port0/line17,RL10,FORCE DF
+IN11,0A/port0/line18,RL11,
+IN12,0A/port0/line19,RL12,
+IN13,0A/port0/line20,RL13,
+IN14,0A/port0/line21,RL14,
+IN15,0A/port0/line22,RL15,
+IN16,0A/port0/line23,RL16,DISCHARGE
+LOAD_DC1,0A/port0/line24,LOAD_DC1,
+LOAD_DC2,0A/port0/line25,LOAD_DC2,
+LOAD_DC3,0A/port0/line26,LOAD_DC3,
+LOAD_DC4,0A/port0/line27,LOAD_DC4,
+LOAD_DC5,0A/port0/line28,LOAD_DC5,
+LOAD_DC6,0A/port0/line29,LOAD_DC6,
+LOAD_AC1,0A/port0/line30,LOAD_AC1,
+LOAD_AC2,0A/port0/line31,LOAD_AC2,
+LOAD,0A/port0/line24:31,LOAD,H/L CHECK
+SW1,0B/port0/line0,SW1,
+SW2,0B/port0/line1,SW2,
+SW3,0B/port0/line2,SW3,
+SW4,0B/port0/line3,SW4,
+SW5,0B/port0/line4,SW5,
+SW6,0B/port0/line5,SW6,
+SW7,0B/port0/line6,SW7,
+SW8,0B/port0/line7,SW8,
+SW9,0B/port0/line8,SW9,
+SW10,0B/port0/line9,SW10,
+SW11,0B/port0/line10,SW11,
+SW12,0B/port0/line11,SW12,
+SW13,0B/port0/line12,SW13,
+SW14,0B/port0/line13,SW14,
+SW15,0B/port0/line14,SW15,
+SW16,0B/port0/line15,SW16,
+SW17,0B/port0/line16,SW17,
+SW18,0B/port0/line17,SW18,
+SW19,0B/port0/line18,SW19,
+SW20,0B/port0/line19,SW20,
+SW21,0B/port0/line20,SW21,
+SW22,0B/port0/line21,SW22,
+SW23,0B/port0/line22,SW23,
+SW24,0B/port0/line23,SW24,
+IN1,0B/port0/line24,RL1,TEST A
+IN2,0B/port0/line25,RL2,TEST B
+IN3,0B/port0/line26,RL3,DOOR SW
+IN4,0B/port0/line27,RL4,2.5K
+IN5,0B/port0/line28,RL5,0K
+IN6,0B/port0/line29,RL6,VR 3.4V
+IN7,0B/port0/line30,RL7,VR 1.8V
+IN8,0B/port0/line31,RL8,VR 0V
+SW,0B/port0/line0:23,SW,
+RL_A,0B/port0/line24:31,RL_A,
+RL_B,0A/port0/line16:23,RL_B,
+RESET_1,0A/port0/line0:31,RESET_1,
+RESET_2,0B/port0/line0:31,RESET_2,
